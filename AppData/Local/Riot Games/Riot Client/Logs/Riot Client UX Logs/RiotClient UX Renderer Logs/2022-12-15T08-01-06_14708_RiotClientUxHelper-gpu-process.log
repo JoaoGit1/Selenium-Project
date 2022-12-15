@@ -1,0 +1,41 @@
+000000.000| ALWAYS| Logging started at 2022-12-15T08:01:06.773
+000000.000| ALWAYS| Application Version:62.0.1.4852117 - CL:4852117
+000000.000| ALWAYS| Log file C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/RiotClient UX Renderer Logs/2022-12-15T08-01-06_14708_RiotClientUxHelper-gpu-process.log
+000000.000| ALWAYS| Running RiotClientUxHelper version 62.0.1.4852117
+000000.000|   OKAY| Initial working directory: "C:\Riot Games\Riot Client\UX"
+000000.000|   OKAY| Current process: "C:\Riot Games\Riot Client\UX\RiotClientUxRender.exe"
+000000.000|   OKAY| Command line arguments:
+	--type=gpu-process
+	--field-trial-handle=1492,3627448033946139895,10184761529859836705,131072
+	--disable-features=HardwareMediaKeyHandling,NetworkService
+	--no-sandbox
+	--log-file=C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/debug.log
+	--product-version=RiotClient/62.0.1 (CEF 74)
+	--lang=en-US
+	--gpu-preferences=KAAAAAAAAADgAAAgAQAAAAAAAAAAAGAAAAAAABAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAFAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAQAAAAUAAAAQAAAAAAAAAAEAAAAGAAAA
+	--log-file=C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/debug.log
+	--service-request-channel-token=7580829874375637166
+	--mojo-platform-channel-handle=1568
+	/prefetch:2
+	--app-name=RiotClient
+	--ux-name=RiotClientUx
+	--ux-helper-name=RiotClientUxHelper
+	--log-dir=C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/
+	--app-port=54093
+	--crashpad-environment=KeystoneFoundationLiveWin
+	--user-data-root=C:/Users/joaog/AppData/Local/Riot Games/Riot Client
+	--app-root=C:/Riot Games/Riot Client
+000000.001|   OKAY| Working Set Size: 12MiB Peak: 12MiB   Pagefile Usage: 4MiB Peak: 4MiB   Private Usage: 4MiB
+000000.001|   OKAY| Paged Pool Usage: 0MiB Peak: 0MiB   Non-Paged Pool Usage: 0MiB Peak: 0MiB
+000000.001|   OKAY| Committed Total: 151MiB   Committed Image: 147MiB   Committed Mapped: 3MiB   Committed Private: 0MiB   Reserved Total: 33MiB   Reserved Image: 0MiB   Reserved Mapped: 22MiB   Reserved Private: 10MiB   Free Total: 3911MiB   Limit: 4095MiB   Largest Free: 2039MiB   Region Count: 585
+000000.001|   OKAY| Page Fault Count: 3K
+000005.003|   OKAY| Working Set Size: 112MiB (+100) Peak: 112MiB (+100)   Pagefile Usage: 83MiB (+79) Peak: 83MiB (+79)   Private Usage: 83MiB (+79)
+000010.014|   OKAY| Working Set Size: 89MiB (-23) Peak: 113MiB (+1)   Pagefile Usage: 59MiB (-24) Peak: 83MiB (+0)   Private Usage: 59MiB (-24)
+000015.028|   OKAY| Working Set Size: 74MiB (-15) Peak: 113MiB (+0)
+000020.029|   OKAY| Working Set Size: 135MiB (+61) Peak: 135MiB (+22)   Pagefile Usage: 101MiB (+42) Peak: 102MiB (+19)   Private Usage: 101MiB (+42)
+000025.029|   OKAY| Working Set Size: 103MiB (-32) Peak: 135MiB (+0)   Pagefile Usage: 84MiB (-17) Peak: 106MiB (+4)   Private Usage: 84MiB (-17)
+000825.109|   OKAY| Page Fault Count: 104K (+101)
+000829.654|   OKAY| Working Set Size: 96MiB Peak: 135MiB   Pagefile Usage: 76MiB Peak: 106MiB   Private Usage: 76MiB
+000829.654|   OKAY| Paged Pool Usage: 0MiB Peak: 0MiB   Non-Paged Pool Usage: 0MiB Peak: 0MiB
+000829.654|   OKAY| Committed Total: 300MiB   Committed Image: 220MiB   Committed Mapped: 20MiB   Committed Private: 58MiB   Reserved Total: 119MiB   Reserved Image: 0MiB   Reserved Mapped: 22MiB   Reserved Private: 96MiB   Free Total: 3676MiB   Limit: 4095MiB   Largest Free: 2039MiB   Region Count: 1898
+000829.654|   OKAY| Page Fault Count: 104K

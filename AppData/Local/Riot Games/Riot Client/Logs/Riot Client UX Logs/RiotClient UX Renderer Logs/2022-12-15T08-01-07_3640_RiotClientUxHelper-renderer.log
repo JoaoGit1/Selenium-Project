@@ -1,0 +1,48 @@
+000000.000| ALWAYS| Logging started at 2022-12-15T08:01:07.028
+000000.000| ALWAYS| Application Version:62.0.1.4852117 - CL:4852117
+000000.000| ALWAYS| Log file C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/RiotClient UX Renderer Logs/2022-12-15T08-01-07_3640_RiotClientUxHelper-renderer.log
+000000.000| ALWAYS| Running RiotClientUxHelper version 62.0.1.4852117
+000000.000|   OKAY| Initial working directory: "C:\Riot Games\Riot Client\UX"
+000000.000|   OKAY| Current process: "C:\Riot Games\Riot Client\UX\RiotClientUxRender.exe"
+000000.000|   OKAY| Command line arguments:
+	--type=renderer
+	--no-sandbox
+	--autoplay-policy=no-user-gesture-required
+	--enable-experimental-web-platform-features
+	--force-device-scale-factor=1
+	--log-file=C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/debug.log
+	--field-trial-handle=1492,3627448033946139895,10184761529859836705,131072
+	--disable-features=HardwareMediaKeyHandling,NetworkService
+	--lang=en-US
+	--log-file=C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/debug.log
+	--product-version=RiotClient/62.0.1 (CEF 74)
+	--disable-extensions
+	--disable-spell-checking
+	--device-scale-factor=1
+	--num-raster-threads=4
+	--enable-main-frame-before-activation
+	--service-request-channel-token=6288545332259493122
+	--renderer-client-id=3
+	--mojo-platform-channel-handle=2364
+	/prefetch:1
+	--app-name=RiotClient
+	--ux-name=RiotClientUx
+	--ux-helper-name=RiotClientUxHelper
+	--log-dir=C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Logs/Riot Client UX Logs/
+	--app-port=54093
+	--crashpad-environment=KeystoneFoundationLiveWin
+	--user-data-root=C:/Users/joaog/AppData/Local/Riot Games/Riot Client
+	--app-root=C:/Riot Games/Riot Client
+000000.001|   OKAY| Working Set Size: 12MiB Peak: 12MiB   Pagefile Usage: 4MiB Peak: 6MiB   Private Usage: 4MiB
+000000.001|   OKAY| Paged Pool Usage: 0MiB Peak: 0MiB   Non-Paged Pool Usage: 0MiB Peak: 0MiB
+000000.001|   OKAY| Committed Total: 151MiB   Committed Image: 147MiB   Committed Mapped: 3MiB   Committed Private: 0MiB   Reserved Total: 33MiB   Reserved Image: 0MiB   Reserved Mapped: 22MiB   Reserved Private: 10MiB   Free Total: 3911MiB   Limit: 4095MiB   Largest Free: 2034MiB   Region Count: 584
+000000.001|   OKAY| Page Fault Count: 3K
+000000.015|   OKAY| Browser 1 created.
+000001.398|   OKAY| Registering V8 context for browser 1, frame 3, url https://riot:fi3vEX2FOMoR0BoPbO6Ddg@127.0.0.1:54093/index.html.
+000005.013|   OKAY| Working Set Size: 128MiB (+116) Peak: 128MiB (+116)   Pagefile Usage: 63MiB (+59) Peak: 68MiB (+62)   Private Usage: 63MiB (+59)
+000010.021|   OKAY| Pagefile Usage: 47MiB (-16) Peak: 68MiB (+0)   Private Usage: 47MiB (-16)
+000015.036|   OKAY| Working Set Size: 116MiB (-12) Peak: 131MiB (+3)
+000020.052|   OKAY| Working Set Size: 237MiB (+121) Peak: 266MiB (+135)   Pagefile Usage: 134MiB (+87) Peak: 181MiB (+113)   Private Usage: 134MiB (+87)
+000020.052|   OKAY| Page Fault Count: 125K (+122)
+000025.052|   OKAY| Working Set Size: 222MiB (-15) Peak: 266MiB (+0)
+000035.059|   OKAY| Working Set Size: 194MiB (-28) Peak: 266MiB (+0)   Pagefile Usage: 104MiB (-30) Peak: 181MiB (+0)   Private Usage: 104MiB (-30)

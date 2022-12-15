@@ -1,0 +1,40 @@
+000000.000| ALWAYS| Logging started at 2022-12-15T08:00:59.598
+000000.000| ALWAYS| App Root: C:/Riot Games/Riot Client
+000000.008| ALWAYS| Launcher Build CL:4852117
+000000.008|   OKAY| Launcher enabled with the following metadata:
+000000.008|   OKAY|   appName:   Riot Client Launcher
+000000.008|   OKAY|   version:   62.0.1.4852117
+000000.008|   OKAY|   machineId: Z/m0VDWfHUSt2bZJD4K6vA==
+000000.008|   OKAY|   os:        windows
+000000.008|   OKAY|   osVersion: 10 Professional, x64
+000000.008|   OKAY|   sessionId: 4750cd59-a1fa-674e-a72f-b85619952e3f
+000000.008|   OKAY| Skipping shortcut creation.
+000000.008| ALWAYS| Creating config directory C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Config
+000000.008| ALWAYS| Locking mutex file C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Config/lockfile_
+000000.008| ALWAYS| Lock file was not detected at C:/Users/joaog/AppData/Local/Riot Games/Riot Client/Config/lockfile
+000000.009|   OKAY| Set default locale to en_US. Current locale is pt_BR.
+000000.545| ALWAYS| SplashScreen: OnInitialize
+000000.545| ALWAYS| NativeScreenManager: Setting window size to 392x488.
+000000.545| ALWAYS| NativeScreenManager: Keeping window hidden.
+000000.545| ALWAYS| NativeScreenManager: Centering screen on monitor.
+000000.545| ALWAYS| NativeScreenManager: Keeping window hidden.
+000000.545| ALWAYS| NativeScreenManager: Successfully transitioned to new screen (not draggable).
+000000.548| ALWAYS| InstallRemotingServer: starting remoting server on port 54071
+000000.548|   OKAY| RemotingServer: listening on port 54071
+000000.553|   OKAY| Requesting config from https://clientconfig.rpg.riotgames.com/api/v1/config/public?region=NA&os=windows&app=Riot%20Client&version=62.0.1.4852117&patchline=KeystoneFoundationLiveWin&namespace=keystone.self_update
+000000.673|   OKAY| File UX/GPUCache/data_0 is on disk but it's not in the database
+000000.673|   OKAY| File UX/GPUCache/data_1 is on disk but it's not in the database
+000000.673|   OKAY| File UX/GPUCache/data_2 is on disk but it's not in the database
+000000.673|   OKAY| File UX/GPUCache/data_3 is on disk but it's not in the database
+000000.673|   OKAY| File UX/GPUCache/index is on disk but it's not in the database
+000000.673|   OKAY| Directory UX/GPUCache is on disk but it's not in the database
+000000.674|   OKAY| Verification completed successfully for install at C:/Riot Games/Riot Client
+000000.674| ALWAYS| Validated install at 'C:/Riot Games/Riot Client' at release 'F3FAAAA38C7C372F'; skipping update
+000000.674| ALWAYS| No update required, launching Foundation.
+000000.693| ALWAYS| Detected success result; exiting launcher thread
+000000.693| ALWAYS| Finished waiting for launcher threads.
+000000.693| ALWAYS| UxLoop complete.
+000000.693| ALWAYS| InstallRemotingServer: InstallRemotingServer: stopping remoting server
+000000.693| ALWAYS| InstallRemotingServer: Stopping agent
+000004.526|   OKAY| Wrote direct launch installs file at C:/ProgramData/Riot Games/RiotClientInstalls.json
+000004.526| ALWAYS| Launching foundation from C:/Riot Games/Riot Client/RiotClientFoundation.dll.

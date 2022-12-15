@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SetupPrereq>
+	<properties/>
+	<conditions>
+		<condition Type="1" Comparison="2" Path="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}" FileName="" ReturnValue="" Bits="1"/>
+	</conditions>
+	<operatingsystemconditions>
+		<operatingsystemcondition MajorVersion="5" MinorVersion="1" PlatformId="2" CSDVersion="" Bits="1" ProductType="1" ServicePackMajorMin="2"/>
+		<operatingsystemcondition MajorVersion="6" MinorVersion="0" PlatformId="2" CSDVersion=""/>
+		<operatingsystemcondition MajorVersion="5" MinorVersion="2" PlatformId="2" CSDVersion="" ProductType="2|3" ServicePackMajorMin="1"/>
+		<operatingsystemcondition MajorVersion="6" MinorVersion="0" PlatformId="2" CSDVersion="" ProductType="2|3" ServicePackMajorMin="1"/>
+		<operatingsystemcondition MajorVersion="6" MinorVersion="1" PlatformId="2" CSDVersion=""/>
+		<operatingsystemcondition MajorVersion="5" MinorVersion="2" PlatformId="2" CSDVersion="" Bits="2" ProductType="1"/>
+		<operatingsystemcondition MajorVersion="10" MinorVersion="0" PlatformId="2" CSDVersion=""/>
+	</operatingsystemconditions>
+	<files>
+		<file LocalFile=".\VC 2010 Redist\x86\vcredist_x86.exe" URL="https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe" CheckSum="F45ADE105F9C4FE754976C820230A9E5" FileSize="0,8993744"/>
+	</files>
+	<execute file="vcredist_x86.exe" cmdline="/q /norestart" cmdlinesilent="/q /norestart" returncodetoreboot="1641,3010" requiresmsiengine="1"/>
+	<dependencies>
+		<dependency File="&lt;ISProductFolder&gt;\SetupPrerequisites\Windows Installer 3.1 (x86).prq"/>
+	</dependencies>
+	<properties Id="{83960519-644A-4722-BA7A-37D23C1D004F}" Description="This prerequisite installs the Microsoft Visual C++ 2010 Runtime Libraries (x86)." AltPrqURL="http://saturn.installshield.com/is/prerequisites/Microsoft Visual C++ 2010 Redistributable Package (x86).prq"/>
+	<behavior Hidden="1" Failure="4" Reboot="4"/>
+</SetupPrereq>
